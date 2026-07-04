@@ -1,0 +1,6 @@
+{
+  "name": "Rural Healthcare Management Platform",
+  "description": "An AI-powered Government Rural Healthcare Management platform supporting appointment booking, smart queueing, medicine inventory tracking, electronic health records, diagnostic symptom checking, maternal & child care trackers, and a public health dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
